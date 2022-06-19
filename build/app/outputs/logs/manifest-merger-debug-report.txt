@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 application
-INJECTED from /Users/WORK/HOME/my_dynamic_app/android/app/src/main/AndroidManifest.xml:3:4-34:19
+INJECTED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/main/AndroidManifest.xml:3:4-34:19
 MERGED from [com.google.firebase:firebase-analytics:21.0.0] /Users/ltphong/.gradle/caches/transforms-3/41d563bc51d7d21bd8594cd3a53cefa2/transformed/jetified-firebase-analytics-21.0.0/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:21.0.0] /Users/ltphong/.gradle/caches/transforms-3/41d563bc51d7d21bd8594cd3a53cefa2/transformed/jetified-firebase-analytics-21.0.0/AndroidManifest.xml:7:5-20
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/ltphong/.gradle/caches/transforms-3/e1f53c96aa78f7b42431169b7cd59214/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
@@ -36,16 +36,16 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ltph
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] /Users/ltphong/.gradle/caches/transforms-3/b11c0e2c212c747cb4bcf29314469768/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 	android:name
-		INJECTED from /Users/WORK/HOME/my_dynamic_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/main/AndroidManifest.xml
 manifest
-ADDED from /Users/WORK/HOME/my_dynamic_app/android/app/src/main/AndroidManifest.xml:1:1-35:12
-INJECTED from /Users/WORK/HOME/my_dynamic_app/android/app/src/main/AndroidManifest.xml:1:1-35:12
-INJECTED from /Users/WORK/HOME/my_dynamic_app/android/app/src/main/AndroidManifest.xml:1:1-35:12
-INJECTED from /Users/WORK/HOME/my_dynamic_app/android/app/src/main/AndroidManifest.xml:1:1-35:12
-MERGED from /Users/WORK/HOME/my_dynamic_app/android/app/src/main/AndroidManifest.xml:1:1-35:12
-MERGED from [:shared_preferences_android] /Users/WORK/HOME/my_dynamic_app/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:sqflite] /Users/WORK/HOME/my_dynamic_app/build/sqflite/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:path_provider_android] /Users/WORK/HOME/my_dynamic_app/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+ADDED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/main/AndroidManifest.xml:1:1-35:12
+MERGED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/main/AndroidManifest.xml:1:1-35:12
+MERGED from [:shared_preferences_android] /Users/WORK/HOME/cached_network_image_EX/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:sqflite] /Users/WORK/HOME/cached_network_image_EX/build/sqflite/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:path_provider_android] /Users/WORK/HOME/cached_network_image_EX/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-analytics:21.0.0] /Users/ltphong/.gradle/caches/transforms-3/41d563bc51d7d21bd8594cd3a53cefa2/transformed/jetified-firebase-analytics-21.0.0/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/ltphong/.gradle/caches/transforms-3/21b26ef90e71324700151bde7e8603b7/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/ltphong/.gradle/caches/transforms-3/e1f53c96aa78f7b42431169b7cd59214/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
@@ -83,33 +83,33 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/
 MERGED from [androidx.print:print:1.0.0] /Users/ltphong/.gradle/caches/transforms-3/ba53b631c7f27ca2a015a79a3114d7be/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ltphong/.gradle/caches/transforms-3/bb86a14d026a27f02ef3281a7e476e26/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ltphong/.gradle/caches/transforms-3/7b0449fa7552e8a8a339afd91dd38861/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/WORK/HOME/my_dynamic_app/android/app/src/debug/AndroidManifest.xml:1:1-8:12
-INJECTED from /Users/WORK/HOME/my_dynamic_app/android/app/src/debug/AndroidManifest.xml:1:1-8:12
-INJECTED from /Users/WORK/HOME/my_dynamic_app/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/debug/AndroidManifest.xml:1:1-8:12
 	package
-		ADDED from /Users/WORK/HOME/my_dynamic_app/android/app/src/main/AndroidManifest.xml:2:5-41
-		INJECTED from /Users/WORK/HOME/my_dynamic_app/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/WORK/HOME/my_dynamic_app/android/app/src/debug/AndroidManifest.xml
+		ADDED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/main/AndroidManifest.xml:2:5-41
+		INJECTED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/WORK/HOME/my_dynamic_app/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/WORK/HOME/my_dynamic_app/android/app/src/main/AndroidManifest.xml:1:1-35:12
-		INJECTED from /Users/WORK/HOME/my_dynamic_app/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/main/AndroidManifest.xml:1:1-35:12
+		INJECTED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/debug/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/WORK/HOME/my_dynamic_app/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/WORK/HOME/my_dynamic_app/android/app/src/main/AndroidManifest.xml:1:1-35:12
-		INJECTED from /Users/WORK/HOME/my_dynamic_app/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/main/AndroidManifest.xml:1:1-35:12
+		INJECTED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/WORK/HOME/my_dynamic_app/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-sdk
-INJECTED from /Users/WORK/HOME/my_dynamic_app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/WORK/HOME/my_dynamic_app/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/WORK/HOME/my_dynamic_app/android/app/src/main/AndroidManifest.xml
-MERGED from [:shared_preferences_android] /Users/WORK/HOME/my_dynamic_app/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:shared_preferences_android] /Users/WORK/HOME/my_dynamic_app/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:sqflite] /Users/WORK/HOME/my_dynamic_app/build/sqflite/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:sqflite] /Users/WORK/HOME/my_dynamic_app/build/sqflite/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:path_provider_android] /Users/WORK/HOME/my_dynamic_app/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:path_provider_android] /Users/WORK/HOME/my_dynamic_app/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/main/AndroidManifest.xml
+MERGED from [:shared_preferences_android] /Users/WORK/HOME/cached_network_image_EX/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] /Users/WORK/HOME/cached_network_image_EX/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] /Users/WORK/HOME/cached_network_image_EX/build/sqflite/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] /Users/WORK/HOME/cached_network_image_EX/build/sqflite/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /Users/WORK/HOME/cached_network_image_EX/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /Users/WORK/HOME/cached_network_image_EX/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-analytics:21.0.0] /Users/ltphong/.gradle/caches/transforms-3/41d563bc51d7d21bd8594cd3a53cefa2/transformed/jetified-firebase-analytics-21.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics:21.0.0] /Users/ltphong/.gradle/caches/transforms-3/41d563bc51d7d21bd8594cd3a53cefa2/transformed/jetified-firebase-analytics-21.0.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/ltphong/.gradle/caches/transforms-3/21b26ef90e71324700151bde7e8603b7/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
@@ -184,16 +184,16 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ltphong/.gradl
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ltphong/.gradle/caches/transforms-3/bb86a14d026a27f02ef3281a7e476e26/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ltphong/.gradle/caches/transforms-3/7b0449fa7552e8a8a339afd91dd38861/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ltphong/.gradle/caches/transforms-3/7b0449fa7552e8a8a339afd91dd38861/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/WORK/HOME/my_dynamic_app/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Users/WORK/HOME/my_dynamic_app/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/WORK/HOME/my_dynamic_app/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/WORK/HOME/my_dynamic_app/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/WORK/HOME/my_dynamic_app/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/WORK/HOME/my_dynamic_app/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/WORK/HOME/my_dynamic_app/android/app/src/debug/AndroidManifest.xml:7:5-66
+ADDED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/debug/AndroidManifest.xml:7:5-66
 MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/ltphong/.gradle/caches/transforms-3/beb1f620abc2a3ff161b1057d4b884fe/transformed/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:22:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/ltphong/.gradle/caches/transforms-3/beb1f620abc2a3ff161b1057d4b884fe/transformed/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/ltphong/.gradle/caches/transforms-3/9732389629c1af7c438b9abf5dfe7f40/transformed/jetified-firebase-installations-17.0.1/AndroidManifest.xml:11:5-67
@@ -205,7 +205,7 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /User
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/ltphong/.gradle/caches/transforms-3/8de6cc7f260db4808aa005e0bc583671/transformed/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/ltphong/.gradle/caches/transforms-3/8de6cc7f260db4808aa005e0bc583671/transformed/jetified-play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /Users/WORK/HOME/my_dynamic_app/android/app/src/debug/AndroidManifest.xml:7:22-64
+		ADDED from /Users/WORK/HOME/cached_network_image_EX/android/app/src/debug/AndroidManifest.xml:7:22-64
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.0.0-beta04] /Users/ltphong/.gradle/caches/transforms-3/e1f53c96aa78f7b42431169b7cd59214/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
 	android:required

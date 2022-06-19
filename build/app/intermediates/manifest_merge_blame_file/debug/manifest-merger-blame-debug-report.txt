@@ -13,8 +13,8 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->/Users/WORK/HOME/my_dynamic_app/android/app/src/debug/AndroidManifest.xml:7:5-66
-15-->/Users/WORK/HOME/my_dynamic_app/android/app/src/debug/AndroidManifest.xml:7:22-64
+15-->/Users/WORK/HOME/cached_network_image_EX/android/app/src/debug/AndroidManifest.xml:7:5-66
+15-->/Users/WORK/HOME/cached_network_image_EX/android/app/src/debug/AndroidManifest.xml:7:22-64
 16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 16-->[com.google.android.gms:play-services-measurement-api:21.0.0] /Users/ltphong/.gradle/caches/transforms-3/beb1f620abc2a3ff161b1057d4b884fe/transformed/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:23:5-79
 16-->[com.google.android.gms:play-services-measurement-api:21.0.0] /Users/ltphong/.gradle/caches/transforms-3/beb1f620abc2a3ff161b1057d4b884fe/transformed/jetified-play-services-measurement-api-21.0.0/AndroidManifest.xml:23:22-76

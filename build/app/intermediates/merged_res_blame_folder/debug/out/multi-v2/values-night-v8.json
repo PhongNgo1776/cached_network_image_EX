@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/WORK/HOME/my_dynamic_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/WORK/HOME/cached_network_image_EX/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/WORK/HOME/my_dynamic_app/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/WORK/HOME/cached_network_image_EX/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

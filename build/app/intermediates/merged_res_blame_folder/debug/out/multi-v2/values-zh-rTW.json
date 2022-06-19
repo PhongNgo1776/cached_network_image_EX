@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/WORK/HOME/my_dynamic_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
+            "outputFile": "/Users/WORK/HOME/cached_network_image_EX/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
             "map": [
                 {
                     "source": "/Users/ltphong/.gradle/caches/transforms-3/f0589360d9c02b2f33aa86e62a9e0782/transformed/jetified-play-services-basement-18.0.0/res/values-zh-rTW/values.xml",

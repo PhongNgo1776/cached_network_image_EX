@@ -67,8 +67,16 @@ class _MainScreenState extends State<_MainScreen> {
                       errorWidget: (context, _, __) {
                         return Container(
                           color: Colors.red,
-                          height: 50,
-                          width: 50,
+                          width: 200,
+                          alignment: Alignment.center,
+                          child: const Text(
+                            'ERROR',
+                            style: TextStyle(
+                              color: Colors.white,
+                              fontWeight: FontWeight.bold,
+                              fontSize: 30,
+                            ),
+                          ),
                         );
                       },
                     ),
